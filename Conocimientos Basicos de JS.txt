@@ -1,0 +1,33 @@
+JS
+------------------
+Tipos de datos 
+-strings
+-numbers
+-booleans
+------------------
+Variables
+
+-let
+-const
+------------------
+Control de Flujo
+-if/else
+-switch
+-for
+-...
+------------------
+Objetos
+------------------
+Arreglos
+------------------
+Funciones
+------------------
+Manejo basico del Doom
+------------------
+fetch() API
+------------------
+Asincronia en javascript
+------------------
+-callbacks
+-promises
+-async/await
